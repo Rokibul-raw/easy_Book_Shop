@@ -12,6 +12,23 @@ html {
   position: relative;
   min-height: 100%;
 }
+.navbar {
+    position: sticky;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 65px;
+}
 
 body {
   margin-bottom: 60px;
