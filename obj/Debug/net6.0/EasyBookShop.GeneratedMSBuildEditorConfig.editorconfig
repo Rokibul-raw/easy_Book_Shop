@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\.NetProject\EasyBookShop\EasyBookShop
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/.NetProject/EasyBookShop/EasyBookShop/Views/Book/GetAllBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRBbGxCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NetProject/EasyBookShop/EasyBookShop/Views/Book/GetBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NetProject/EasyBookShop/EasyBookShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
